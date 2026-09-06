@@ -26,4 +26,4 @@
 
 ### 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/barbarahatano/)
+[LinkedIn](https://linkedin.com/in/barbarahatano/) [email](barbara.hatano@outlook.com)
