@@ -7,7 +7,7 @@
 ### 🚀 Projetos em destaque
 
 - **[Organização de Arquivos e Árvore B](https://github.com/barbarahatano/USP/tree/main/3%C2%B0%20semestre/organizacao_arquivos)** — sistema em C que converte dados de CSV para um arquivo binário, com busca, inserção e remoção diretamente sobre o binário, além de indexação por Árvore B para otimizar buscas.
-- **[PRESERVE5.0]((https://github.com/barbarahatano/USP/tree/main/5_semestre/base_de_dados))** — CLI em Python integrada a um banco de dados Oracle para gestão de manutenção de ativos industriais.
+- **[PRESERVE5.0](https://github.com/barbarahatano/USP/tree/main/5_semestre/base_de_dados)** — CLI em Python integrada a um banco de dados Oracle para gestão de manutenção de ativos industriais.
 ---
 
 ### 🛠️ Stack
